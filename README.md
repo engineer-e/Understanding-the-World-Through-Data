@@ -4,6 +4,5 @@ MITxT 6.UWTDx
 
 ## Why Choose Learning from MIT ?
 
-> I Checked on belong link for good Universities in the world, I checking through each university, I not have money, to pay for courses, since check my [Job Profile]().
-> [https://edurank.org/](https://edurank.org/)
+> I Checked for good Universities in the world, I checking through each university by [https://edurank.org/](https://edurank.org/) , I not have money, to pay for courses, since check my [Job Profile](). 
 
