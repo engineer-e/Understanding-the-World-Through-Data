@@ -34,7 +34,10 @@
 | | Q| 5| |
 | | Q| 6| [Polynomial](AIMOOC/Modules/Module2/student_ques6_polynomial.ipynb)|
 | | P | 1| [Module 2 Capstone](AIMOOC/Modules/Module2/Capstone/student_module2_capstone.ipynb)  |
-| 3 | L | 2 | [Mean Std](AIMOOC/Modules/Module3/student_lec2_mean_std.ipynb) | 
+| 3 | L | 1 || 
+|  | L | 2 | [Mean Std](AIMOOC/Modules/Module3/student_lec2_mean_std.ipynb) | 
+| | L| 3| |
+| | L | 4 | |
 |   | L | 5 | [Probabilities](AIMOOC/Modules/Module3/student_lec5_probabilities.ipynb) | 
 | | Q  | 1 | [Mean Std Colab](AIMOOC/Modules/Module3/student_ques1_mean_std_colab.ipynb)| 
 | | P | 1| [Module 3 Capstone](AIMOOC/Modules/Module3/Capstone/student_module3_capstone.ipynb)  |
@@ -46,7 +49,7 @@
 | | Q | 2 | [Linear Classifier](AIMOOC/Modules/Module4/student_ques2_linear_classifier.ipynb) |
 | | Q | 3 | [Support Vector](AIMOOC/Modules/Module4/student_ques3_support_vector.ipynb)  |
 | | Q | 4 | [Logistic Regression](AIMOOC/Modules/Module4/student_ques4_logistic_regression.ipynb) |
-| | P | 4 | [Module 4 - Capstone](AIMOOC/Modules/Module4/Capstone/student_module4_capstone.ipynb) |
+| | P | 1 | [Module 4 - Capstone](AIMOOC/Modules/Module4/Capstone/student_module4_capstone.ipynb) |
 
 ---
 
